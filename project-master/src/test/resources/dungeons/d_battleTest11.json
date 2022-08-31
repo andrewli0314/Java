@@ -1,0 +1,20 @@
+{
+    "entities": [
+        {
+            "type" : "player",
+            "x" : 1,
+            "y" : 1
+        },
+        {
+            "type" : "invincibility_potion",
+            "x" : 1,
+            "y" : 2
+        },
+        {
+            "type" : "spider",
+            "x" : 0,
+            "y" : 3
+        }
+    ],
+    "goal-condition": {"goal": "exit"}
+}
